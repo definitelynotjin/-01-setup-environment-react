@@ -10,7 +10,7 @@
     Runtime JavaScript yang memungkinkan pengembangan aplikasi backend, mendukung pemrosesan asinkron, dan memiliki ekosistem paket NPM untuk mempercepat pengembangan aplikasi.
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
-https://drive.google.com/file/d/1t-K1iUU3tjrnba262u7Pv9extwFnoTfE/view?usp=sharing
+https://drive.google.com/file/d/15V06CIviaHIW3k7J7fbEHYgcfbQXyFFN/view?usp=sharing
 
 
 **Pertanyaan Praktikum 2**
@@ -62,12 +62,12 @@ https://drive.google.com/file/d/1t-K1iUU3tjrnba262u7Pv9extwFnoTfE/view?usp=shari
     File ini berisi komponen halaman utama aplikasi. Ini adalah titik masuk untuk merender konten halaman.
 
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
-https://drive.google.com/file/d/1DFGHjf5HMn0RJf_4zg-b0JWmoYklRTuc/view?usp=sharing
-https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing
+https://drive.google.com/file/d/17ZLN-a31kDM99OIEEP9tdovAUxlfUM0R/view?usp=sharing
+https://drive.google.com/file/d/1EI9zuX2I4S4_fIwAXG3bYmj7YTryyQHJ/view?usp=sharing
 
 **Pertanyaan Praktikum 3**
 1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
-https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing
+https://drive.google.com/file/d/1EI9zuX2I4S4_fIwAXG3bYmj7YTryyQHJ/view?usp=sharing
 
 **Pertanyaan Praktikum 4**
 1. Untuk apakah kegunaan sintaks user.imageUrl?
